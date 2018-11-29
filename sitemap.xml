@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://caspianfeed.com/</loc>
+    <loc>https://caspianfeed.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://caspianfeed.com/categories/</loc>
+    <loc>https://caspianfeed.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://caspianfeed.com/tags/</loc>
+    <loc>https://caspianfeed.com/tags/</loc>
     <priority>0</priority>
   </url>
   
